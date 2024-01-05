@@ -1,6 +1,5 @@
-# Desafios-Gamers
+# Construindo um Simulador de Piano com JavaScript
 
-## Potência Tech iFood - Desenvolvimento de Jogos
+DESCRIÇÃO
 
-### Construindo o seu portifólio de jogos com JAVASCRIPT
-
+Que tal construir um simulador de piano totalmente funcional no seu navegador ? aproveite para aprender mais sobre HTML, CSS e o poder de manipulação da D.O.M. do Browser através de Javascript e como interagir com áudios.
